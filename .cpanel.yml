@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    -export DEPLOYPATH=/home/sdsevain/public_html
+    -export DEPLOYPATH=/sdsevain/loan.fasrtprint.xyz
     -/bin/cp * $DEPLOYPATH
